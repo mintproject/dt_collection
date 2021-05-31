@@ -7,6 +7,8 @@ hints:
     dockerImageId: mintproject/mint_dt
 baseCommand: ["config.yaml"]
 requirements:
+  NetworkAccess:
+    networkAccess: true
   InitialWorkDirRequirement:
     listing:
       - entryname: config.yaml
@@ -95,3 +97,4 @@ outputs:
     type: File
     outputBinding:
        glob: output.zip
+
