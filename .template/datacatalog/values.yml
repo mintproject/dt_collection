@@ -1,0 +1,8 @@
+dataset_id: 5babae3f-c468-4e01-862e-8b201468e3b5
+start_time: "2014-08-01 00:00:00"
+end_time: "2014-08-02 00:00:00"
+var_name: atmosphere_water__rainfall_mass_flux
+bounding_box: "23.995416666666,6.532916666667,28.020416666666,9.566250000000"
+xres_arcsecs: 30
+yres_arcsecs: 30
+unit_multifier: 3600
