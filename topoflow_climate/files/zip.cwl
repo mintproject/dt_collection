@@ -12,4 +12,4 @@ outputs:
   directory:
     type: Directory
     outputBinding:
-      glob: hello.txt
+      glob: "*"
