@@ -12,7 +12,7 @@ The DataTransformations available are:
 
 | Name             | Description | DataCatalog | Localfiles |
 |------------------|-------------|-------------|------------|
-| topoflow_climate |             | Not working | Working    |
+| topoflow_climate |             | Working | Working    |
 
 ## How to add new Data Transformation. 
 
