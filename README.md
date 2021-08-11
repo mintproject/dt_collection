@@ -1,4 +1,4 @@
-# Data Transformations Workflows for MINT
+# Data Transformations for MINT
 
 This repository contains a collection of workflows (CWL) to run Data Transformation implemented by [MINT DataTransformation](https://github.com/mintproject/MINT-Transformation)
 
